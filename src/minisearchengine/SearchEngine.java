@@ -1,4 +1,4 @@
-/* Name: Serdar MUSTAFAPA
+/* Name: Serdar MUSTAFAPASA
  * Project: MiniSearchEngine
  * Last modification date: 25.05.2021
  */
